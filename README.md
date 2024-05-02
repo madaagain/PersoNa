@@ -51,4 +51,4 @@ The backend makes local calls to Ollama. Ensure that the OllamaBot is properly i
 
 To see a demonstration of the application in action, you can view the video here:
 
-![Screencast_from_2024-01-19_10-22-43 (1).gif](DocElements/Screencast_from_2024-01-19_10-22-43%20(1).gif)
+<img src="DocElements/Screencast_from_2024-01-19_10-22-43%20(1).gif" width="800" height="450" alt="Screencast_from_2024-01-19_10-22-43 (1)">
