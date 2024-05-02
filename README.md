@@ -49,4 +49,6 @@ The backend makes local calls to Ollama. Ensure that the OllamaBot is properly i
 
 ### Video Demo
 
-To see a demonstration of the application in action, you can view the video at the following link: [Screencast_from_2024-01-19_10-22-43.webm]
+To see a demonstration of the application in action, you can view the video here:
+
+![Screencast_from_2024-01-19_10-22-43 (1).gif](DocElements/Screencast_from_2024-01-19_10-22-43%20(1).gif)
